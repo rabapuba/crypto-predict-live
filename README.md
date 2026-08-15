@@ -2,9 +2,11 @@
 
 > **Ultra-Fast Real-Time Price & Countdown Monitor for Prediction Market Traders (Polymarket & Crypto.com Predict)**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo%20Ready-00f090?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![WebSocket](https://img.shields.io/badge/Feed-Binance%20Direct%20WS-00d2ff?style=for-the-badge&logo=binance&logoColor=black)](#)
-[![Auto Rollover](https://img.shields.io/badge/Rollover-Zero%20Lag%20Automated-9d4edd?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo%20Online-00f090?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rabapuba.github.io/crypto-predict-live/)
+[![WebSocket](https://img.shields.io/badge/Feed-Binance%20Direct%20WS-00d2ff?style=for-the-badge&logo=binance&logoColor=black)](https://rabapuba.github.io/crypto-predict-live/)
+[![Auto Rollover](https://img.shields.io/badge/Rollover-Zero%20Lag%20Automated-9d4edd?style=for-the-badge)](https://rabapuba.github.io/crypto-predict-live/)
+
+🔗 **Live Web App URL**: [https://rabapuba.github.io/crypto-predict-live/](https://rabapuba.github.io/crypto-predict-live/)
 
 ---
 
